@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="#">Alok Raj</a> 👋</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech CSE @ GEC Bakhtiyarpur</h3>
+<h3 align="center">Aspiring Software Engineer | B.Tech CSE @ BCE Patna </h3>
 
 ---
 
