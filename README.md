@@ -79,28 +79,6 @@ Goal:
 
 ---
 
-# 📊 GitHub Status
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A1okRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1okRaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A1okRaj&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
